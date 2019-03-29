@@ -6,3 +6,6 @@ Open the console to see the results of the commands used :
 - add a new todo by typing "new"
 - delete a todo by typing "delete"
 - quit the app by typing "quit"
+
+-----------------------------------------------------------------------------------------------------------
+From The Web Developer Bootcamp by Colt Steele on Udemy (https://www.udemy.com/the-web-developer-bootcamp/)
